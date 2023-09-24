@@ -29,3 +29,7 @@ jobs:
           AUTO_PUSH: true
       - name: generate card
         run: echo -e "\e[35m Done \e[0m"
+#        name: Generate the user stats image
+#        uses: cicirello/user-statistician@v1
+#        env:
+#          GITHUB_TOKEN:
