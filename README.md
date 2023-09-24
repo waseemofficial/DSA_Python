@@ -1,5 +1,8 @@
 # DSA_Python
 <p align="center" >
+<div align="center" >
+<img src="./Images\github_logo.png"/>
+</div>
 <a href="https://github.com/waseemofficial">
 <img src="https://img.shields.io/badge/syed-waseem-93b023?&style=for-the-badge&logo=&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
