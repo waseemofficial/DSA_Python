@@ -1,5 +1,12 @@
 # DSA_Python
+![Custom badge](https://img.shields.io/badge/syed-waseem-93b023?&style=for-the-badge&logo=&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+
+![https://img.shields.io/badge/logo-javascript-blue?logo=javascript](https://img.shields.io/badge/.-Python-blue?logo=python)
+
 Data Structures and Algorithms in Python
+
 
 # Stats
 [![](https://raw.githubusercontent.com/waseemofficial/DSA_Python/main/profile-summary-card-output/moonlight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -12,3 +19,5 @@ Data Structures and Algorithms in Python
 # Commits Schedule Stats
 [![](https://raw.githubusercontent.com/waseemofficial/DSA_Python/main/profile-summary-card-output/moonlight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
