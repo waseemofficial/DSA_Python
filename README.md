@@ -1,7 +1,7 @@
 # DSA_Python
 <p align="center" >
 <div align="center" >
-<img src="./Images\github_logo.png"/>
+<img src="./Images\github_logo_blue.png"/>
 </div>
 <a href="https://github.com/waseemofficial">
 <img src="https://img.shields.io/badge/syed-waseem-93b023?&style=for-the-badge&logo=&logoColor=white"/></a>
