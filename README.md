@@ -16,7 +16,7 @@
 
 
 
-Data Structures and Algorithms in ![https://img.shields.io/badge/logo-javascript-blue?logo=javascript](https://img.shields.io/badge/.-Python-blue?logo=python)
+Data Structures and Algorithms in ![https://img.shields.io/badge/logo-python-blue?logo=javascript](https://img.shields.io/badge/-Python-pk?logo=python)
 
 
 
