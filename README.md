@@ -9,14 +9,16 @@
 <img src="https://img.shields.io/badge/syed-waseem-93b023?&style=for-the-badge&logo=&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
 </div></p>
 
 
+<div align="center">
+ <img src="https://img.shields.io/github/license/waseemofficial/DSA_Python.svg?style=flat"/> <img src="https://img.shields.io/github/stars/waseemofficial/DSA_Python.svg?colorB=orange&style=flat"/> <img sec="https://img.shields.io/github/languages/top/waseemofficial/DSA_Python.svg?style=flat"/ <img src="https://img.shields.io/github/languages/code-size/waseemofficial/DSA_Python.svg?style=flat"/> <img src="https://img.shields.io/github/issues-raw/waseemofficial/DSA_Python.svg?style=flat"
+</div>
 
 
-Data Structures and Algorithms in ![https://img.shields.io/badge/logo-python-blue?logo=javascript](https://img.shields.io/badge/-Python-pk?logo=python)
+# Data Structures and Algorithms in ![https://img.shields.io/badge/logo-python-blue?logo=javascript](https://img.shields.io/badge/-Python-pk?logo=python)
 
 
 
