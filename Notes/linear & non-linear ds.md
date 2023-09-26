@@ -1,4 +1,4 @@
-[]
+
 # Linear and Non-Linear Data Structures
 
 ## Linear Data Structures
@@ -16,8 +16,11 @@ there are two type of **Arrays**
 - _**Referintial Array**_
 
 <div style="position: relative;">
-<img src="./Demo.excalidraw.png" align="center" style="width:400px; height: 200px; border-radius: 25px; opacity: 0.7;" />
-<p style="position: absolute; top: 20px; left: 10px;left: 0px;font-size: 18px; color:blue; writing-mode:vertical-rl;font-family:Brush Script MT ">Excalidraw</p>
+<div align="center">
+<img src="./Demo.excalidraw.png"  style="width:400px; height: 200px; border-radius: 25px; opacity: 0.7;position: relative;" />
+</div>
+<p style="position: absolute;vertical-align: middle; top: 20px; left: 0px;font-size: 18px; color:blue; writing-mode:vertical-rl;font-family:Brush Script MT ">Excalidraw</p>
+
 </div>
 
 
