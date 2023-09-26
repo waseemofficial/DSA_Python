@@ -14,9 +14,12 @@
 </div></p>
 
 
+<div align="center">
+ <img src="https://img.shields.io/github/license/waseemofficial/DSA_Python.svg?style=flat"/> <img src="https://img.shields.io/github/stars/waseemofficial/DSA_Python.svg?colorB=orange&style=flat"/> <img sec="https://img.shields.io/github/languages/top/waseemofficial/DSA_Python.svg?style=flat"/ <img src="https://img.shields.io/github/languages/code-size/waseemofficial/DSA_Python.svg?style=flat"/> <img src="https://img.shields.io/github/issues-raw/waseemofficial/DSA_Python.svg?style=flat"
+</div>
 
 
-Data Structures and Algorithms in ![https://img.shields.io/badge/logo-python-blue?logo=javascript](https://img.shields.io/badge/-Python-pk?logo=python)
+# Data Structures and Algorithms in ![https://img.shields.io/badge/logo-python-blue?logo=javascript](https://img.shields.io/badge/-Python-pk?logo=python)
 
 
 
